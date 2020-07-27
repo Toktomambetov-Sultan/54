@@ -1,7 +1,7 @@
 .Cell{
     display: inline-block;
     width: 16.666%;
-    height: 100px; 
+    height: 75px; 
     vertical-align: top;
     padding: 1px;
 }
@@ -10,4 +10,13 @@
     height: 100%;
     background-color: rgba(204, 204, 204, 0.507);
     border: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    font-size: 30px;
+}
+.Cell .inner.open{
+    background: transparent;
+    border: none;
 }

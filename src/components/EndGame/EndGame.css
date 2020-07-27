@@ -1,0 +1,17 @@
+.EndGame{
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px auto;
+    border: 1px solid yellowgreen;
+    font-size: 24px;
+    color: blue;
+    text-align: center;
+}
+.EndGame h4{
+    margin: 0;
+    padding: 0;
+}
+.EndGame p{
+    margin: 0;
+    padding: 0;
+}
